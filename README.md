@@ -2,10 +2,7 @@
 
 A 3D printable cover for the cutout in the bottom of Buchla boats.
 
-## What is it good for
-
-This is a 3d printable cover for the cutouts in the bottom of Buchla boats. I just like the idea of really closing the hole and having a flat underside of the boat other than with metal plates.
-Most importantly it's DIY.
+![Buchla Cutout Cover](img/cover1.jpg)
 
 ## Compatability
 
@@ -21,7 +18,10 @@ The print settings are not that special. Others should work, too.
 ## Assembly Instructions
 
 Put the cover into the cutout from the inside of the boat.
-Fasten with 4 M3 6mm screws. The holes in the cover have a diameter of 2.8mm so an M3 screw while hold in it. Of course you can use longer screws an secure them with a nut.
+Fasten with 4 M3 6mm screws. The holes in the cover have a diameter of 2.8mm so an M3 screw will hold in it. Of course you can use longer screws an secure them with a nut.
+
+![Buchla Cutout Cover inside](img/cover2.jpg)
+![Buchla Cutout Cover outside](img/cover3.jpg)
 
 ## License
 
