@@ -2,7 +2,8 @@
 
 A 3D printable cover for the cutout in the bottom of Buchla boats made with Autodesk Fusion 360.
 
-![Buchla Cutout Cover](img/cover1.jpg)
+![Buchla Boat Cutout Cover rendere](img\cover_rendered.PNG)
+![Buchla Boat Cutout Cover](img/cover1.jpg)
 
 ## Compatability
 
