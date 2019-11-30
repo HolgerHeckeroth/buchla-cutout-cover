@@ -5,7 +5,7 @@ A 3D printable cover for the cutout in the bottom of Buchla boats made with Auto
 ![Buchla Boat Cutout Cover rendered](img/cover_rendered.PNG)
 ![Buchla Boat Cutout Cover](img/cover1.jpg)
 
-## Compatability
+## Compatibility
 
 I only checked the fit with boats made by [SAModular](https://www.samodular.com/), so far.
 
